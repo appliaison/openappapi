@@ -1,0 +1,12 @@
+[
+	{
+		"id":1,
+		"name":"foo",
+		"tools":["npm", "yeoman"]
+	},
+	{
+		"id":2,
+		"name":"bar",
+		"tools":["npm", "yeoman", "grunt", "gulp"]
+	}
+]
